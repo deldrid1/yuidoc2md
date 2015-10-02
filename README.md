@@ -5,7 +5,7 @@
 
 NOTICE
 ======
-Project maintenance is currently on ice while i develop the vastly superior [jsdoc-to-markdown](https://github.com/75lb/jsdoc-to-markdown), please consider using that instead. 
+Fork of https://github.com/75lb/yuidoc2md with a minor patch to support parsing of .nut files (Electric Imp Squirrel)
 
 yuidoc2md
 =========
